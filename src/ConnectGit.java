@@ -7,7 +7,7 @@ public class ConnectGit {
 		
 		Scanner sr = new Scanner(System.in);
 		String num = sr.nextLine();
-		System.out.printf("입력하신 숫자는 %s입니다.", num);
+		System.out.printf("입력하신 숫자는 %s입니다.", num);  // 주석도 한글이 깨지나?
 	}
 
 }
